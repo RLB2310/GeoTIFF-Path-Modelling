@@ -1,0 +1,5 @@
+__pycache__
+
+*.xml
+*.pgw
+tif_crops/Mars_HRSC_MOLA.tif
